@@ -1,0 +1,60 @@
+
+.gris{
+  background:rgb(92,97,124);
+}
+.top-nav-collapse{
+  background: rgba(0, 0, 0, 0.904);
+}
+.row{
+  height:424px;
+}
+
+.div_p_header{
+  background-color: rgb(10, 154, 190);
+  
+}
+.img_header{
+ background-image: url(../Img/_DSC0942_DxO.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+}
+.p_header{
+  
+  margin-top: 40px;
+  margin-left: 35px;
+  font-size: 40px;
+  text-align: center;
+}
+.img-thumbnail{
+  position: relative;
+  width : 100%;
+
+  height: 426px !important ;
+  
+}
+h4{
+  text-align: center;
+}
+.col-md-4{
+  position: relative;
+  margin-top:45px;
+  
+}
+
+fotico{
+icon-size:10px;
+}
+footer{
+  background-color: #6C757D;
+}
+
+@media only screen and (max-width: 768px) {
+  .navbar {
+      background-color: rgb(18, 18, 19);
+
+  }
+  .img_header{
+    margin-top:5px ; 
+  }  
+}
