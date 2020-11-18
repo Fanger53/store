@@ -1,0 +1,21 @@
+@import "colors";
+
+.gris{
+  background: $color-gray;
+}
+
+// navbar
+
+.top-nav-collapse{
+  background: $color-semiblack;
+}
+
+.navbar{
+  @media only screen and (max-width: 768px){
+    background-color: $color-black;
+  }
+}
+
+.div_p_header{
+  background-color: $color-blue; 
+}
